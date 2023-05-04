@@ -1,7 +1,7 @@
 # Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023-1 
-### SIGI = Self-Improving General Intelligence
+### SIGI - Self-Improving General Intelligence
 
-## Покана за участници! Invitation for participants!
+## Invitation for participants! Покана за участници! Приглашение участников! 
 
 Information about the first one from 2012:
 
@@ -34,4 +34,6 @@ Perhaps it would be free, especially if online, if we meet somewhere and we're t
 Depending on the participants it could be in either English and/or Bulgarian.
 
 The possible dates and organization will be decided together with the prospective coorganizers and participants.
+
+It would be great if we could arrange the meeting/seminars to be hosted by a University.
 
