@@ -1,9 +1,24 @@
-# Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023-1 
+# Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
 ### SIGI - Self-Improving General Intelligence
 
 ## Invitation for participants! Покана за участници! Приглашение участников! 
 
-Information about the first one from 2012:
+See below information about the first one from 2012:
+
+Provisional sample program and participants
+
+* Principal Organizer: "The Sacred Computer" AGI & Transhumanism institute, Todor Arnaudov (looking for coorganizers)
+* Wanted co-organizers from the fields of Robotcs, AI, ML, Aerospace, Software, ...
+
+<b>Possible (provisional) topics:</b>
+
+* "The Prophets of the Thinking Machine" or the <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the work of a teenage boy that was decades ahead of the current top interdisciplinary researchers. A presentation of the "bibleical" documentary collection book, probably also a presentation of the new piece from the theory which is not published yet: "Universe and Mind 6"
+* "Jack of All Trades" - a project for building an AGI infrastructure
+* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale
+* ROS2, Gazebo, Ardupilot ... - simulation infrastructure for robotics and flying drones
+* ...
+
+## SIGI 2012
 
 ![image](https://user-images.githubusercontent.com/23367640/236004197-99363cc4-7df2-4418-ab5b-662f19727aa9.png)
 
