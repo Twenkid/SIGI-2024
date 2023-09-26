@@ -1,7 +1,9 @@
 # Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
 ### SIGI - Self-Improving General Intelligence
 
-## Invitation for participants! Покана за участници! Приглашение участников! 
+The goal was for 2023, but I was busy and if it couldn't be organised until the end of the year it may be in early 2024 or so.
+
+## Invitation for partners, participants and coorganizers! Покана за участници! Приглашение участников! 
 
 See below information about the first one from 2012:
 
@@ -12,11 +14,11 @@ Provisional sample program and participants
 
 <b>Possible (provisional) topics:</b>
 
-* "The Prophets of the Thinking Machine" or the <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the work of a teenage boy that was decades ahead of the current top interdisciplinary researchers. A presentation of the "bibleical" documentary collection book, probably also a presentation of the new piece from the theory which is not published yet: "Universe and Mind 6"
-* "Jack of All Trades" - a project for building an AGI infrastructure
-* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale
-* ROS2, Gazebo, Ardupilot ... - simulation infrastructure for robotics and flying drones
-* ...
+* "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers" or "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream. A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6", which compares with recent talks and claims of similar recent works from the school of Karl Friston, Michael Levin, their colleagues etc.
+* "Jack of All Trades" - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
+* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale ?
+* ROS2, Gazebo, Ardupilot ... - simulation infrastructure for robotics and flying drones; (
+* (...)
 
 ## SIGI 2012
 
@@ -35,13 +37,14 @@ Orlin is a roboticist.
 
 Georgi was a student from the world's first university course in AGI - the second version from 2011 (the first: 2010)
 
-Todor was the author of the world's first AGI course.
+Todor was the author of the world's first AGI course and of the pioneering "Theory of Universe and Mind"
 
 Alexander was a software developer with interests in transhumanism, singularity and Numenta nad Jeff Hawkins' work.
 
 ...
 
 I don't know the format yet, the conference might be combined: partially online, partially in person.
+
 The details would be specified later.
 
 Perhaps it would be free, especially if online, if we meet somewhere and we're too much we may need to rent a conference room or something or just gather somewhere else.
