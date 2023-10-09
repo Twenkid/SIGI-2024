@@ -17,7 +17,7 @@ Provisional sample program and participants
 * "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers" or "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream. A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6", which compares with recent talks and claims of similar recent works from the school of Karl Friston, Michael Levin, their colleagues etc.
 * "Jack of All Trades" - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
 * Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale ?
-* ROS2, Gazebo, Ardupilot ... - simulation infrastructure for robotics and flying drones; (
+* Workshop: ROS2, Gazebo, Ardupilot ... - simulation infrastructure for robotics and flying drones; (
 * (...)
 
 ## SIGI 2012
