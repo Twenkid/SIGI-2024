@@ -1,6 +1,8 @@
 # Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
 ### SIGI - Self-Improving General Intelligence
 
+![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3)
+
 The purpose of the meeting is to be a show case and a gathering of R&D who look for collaborators, partners or interesting projects and topics.
 
 The exact way of conducting is not specified yet, it could be just a gathering, a place for publishing your work, videos and let the others see, comment, contact each others etc.
