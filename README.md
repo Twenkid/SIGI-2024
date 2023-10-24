@@ -1,7 +1,12 @@
 # Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
 ### SIGI - Self-Improving General Intelligence
 
-The goal was for 2023, but the "chairman" T.A. was busy and if it couldn't be organised until the end of the year it may be in 2024 or so.
+The purpose of the meeting is to be a show case and a gathering of R&D who look for collaborators, partners or interesting projects and topics.
+
+The exact way of conducting is not specified yet, it could be just a gathering, a place for publishing your work, videos and let the others see, comment, contact each others etc.
+
+The goal was the event to be presented in 2023, but the "chairman" T.A. was busy and if it couldn't be organised until the end of the year it may be in 2024 or so.
+
 
 ## Invitation for partners, participants and coorganizers! Покана за участници! Приглашение участников! 
 
@@ -18,9 +23,9 @@ Todor Arnaudov:
 
 * "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers" or "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream. A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6", which compares with recent talks and claims of similar recent works from the school of thought of Karl Friston, Michael Levin, their colleagues and students etc.
 * "Jack of All Trades" - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
-* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale
+* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale ?
 * Workshops: Review of ROS2, Gazebo, Ardupilot, Isaac ROS and Isaac SIM ... - simulation infrastructure for robotics, autonomous vehicles, flying drones ?
-* E.Z. - an autonomous drone brain for Jack of All Trades: building the foundation (...)
+* E.Z. - an autonomous drone brain for Jack of All Trades: building the foundation (...) ?
 
 ## SIGI 2012
 
