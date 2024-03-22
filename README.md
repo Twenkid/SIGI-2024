@@ -21,13 +21,21 @@ Provisional sample program and participants
 
 <b>Possible (provisional) topics:</b>
 
-Todor Arnaudov:
+**Todor Arnaudov:**
 
 * "The Prophets of the Thinking Machine: AGI & Transhumanism: History, Theory and Pioneers" or "Todor's predictions" or <a href="https://github.com/Twenkid/Theory-of-Universe-and-Mind">Theory of Universe and Mind</a>: the works of a teenage boy that were decades ahead of the current top interdisciplinary researchers and AI mainstream. A presentation of the "biblical" documentary collection book proving the pioneering work and correct predictions, probably also a presentation about the new piece from the theory which is not published yet: "Universe and Mind 6", which compares with recent talks and claims of similar recent works from the school of thought of Karl Friston, Michael Levin, their colleagues and students etc.
 * "Jack of All Trades" - a project for building an AGI infrastructure: summary of directions, plans (looking for partners) - see the repo and the issues: https://github.com/Twenkid/Vsy-Jack-Of-All-Trades-AGI-Bulgarian-Internet-Archive-And-Search-Engine 
-* Workshop/Tutorial: Arnoldifier - converting a deepfake library to grayscale ?
+* Workshop/Tutorial/Technical reports for Arnoldifier - converting a deepfake library to grayscale ?
 * Workshops: Review of ROS2, Gazebo, Ardupilot, Isaac ROS and Isaac SIM ... - simulation infrastructure for robotics, autonomous vehicles, flying drones ?
 * E.Z. - an autonomous drone brain for Jack of All Trades: building the foundation (...) ?
+* BGGPT - evaluations, comparisons, tests, code, utilities, tutorials
+* Large Language Models and ML, Prompt Engineering - Tutorials, ... GPT2, BGGPT, other models, different modes, tasks, quantizations, tips ... 
+* Whisper and whisper.cpp - Speech recognition tutorial
+* Toshko 3 - announcement/demo/new version of the speech synthesizer, now with Speech Recognition: Part ot Jack of All Trades
+* Smarty 2 - announcement/demo/... a new hugely updated version of the once "most intelligent dictionary" in the world, created for just 3 months back in 2007 (I managed to rebuild it on 15.3.2007 and it grows quickly): Part ot Jack of All Trades
+* ? General workshops/tutorials on NLP, NLG, Web scraping, ...
+* ? KidVM - experimental simple Virtual Machine/CPU for (...)
+* ...
 
 ## SIGI 2012
 
