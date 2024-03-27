@@ -1,7 +1,15 @@
 # Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
-### SIGI - Self-Improving General Intelligence
-
-![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3)
+### SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
+<!-- BOTH
+![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/d8477418-007a-4da5-9d8f-7e67e0f14aaf)
+-->
+<!-- //ENGLISH
+![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
+-->
+<!-- //BULGARIAN
+![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
+-->
+![image](https://github.com/Twenkid/SIGI-2023-1/assets/23367640/819e9549-2560-4baa-a128-b6cb6b6b56e3) ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/10bd6b66-b341-4c7d-bd5d-9bfb61163c56)
 
 The purpose of the meeting is to be a show case and a gathering of R&D who look for collaborators, partners or interesting projects and topics.
 
@@ -9,6 +17,7 @@ The exact way of conducting is not specified yet, it could be just a gathering, 
 
 The goal was the event to be presented in 2023, but the "chairman" T.A. was busy and if it couldn't be organised until the end of the year it may be in 2024 or so.
 
+The Sacred Computers' original alternative terms for Artificial General Intelligence: Artificial Mind, Изкуствен Разум, Мислеща машина, VLESI: Versatile Limitless Explorer and Self-Improver and variants such as VEI: Versatile Explorer and Improver ... EI: Explorer and Improver. VGEI: Versatile Generalizer Explorer and Improver... //note from 27.3.2024
 
 ## Invitation for partners, participants and coorganizers! Покана за участници! Приглашение участников! 
 
