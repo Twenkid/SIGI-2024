@@ -39,8 +39,9 @@ Provisional sample program and participants
 * Workshops: Review of ROS2, Gazebo, Ardupilot, Isaac ROS and Isaac SIM ... - simulation infrastructure for robotics, autonomous vehicles, flying drones ?
 * E.Z. - an autonomous drone brain for Jack of All Trades: building the foundation (...) ?
 * BGGPT - evaluations, comparisons, tests, code, utilities, tutorials
-* Large Language Models and ML, Prompt Engineering - Tutorials, ... GPT2, BGGPT, other models, different modes, tasks, quantizations, tips ... 
 * Whisper and whisper.cpp - Speech recognition tutorial
+* Voice controlled Localy running LLMs with Autoclap, Whisper, GPT4ALL, BGGPT/Mistral/StarCoder and Sacred Computer's glue
+* Large Language Models and ML, Prompt Engineering - Tutorials, ... GPT2, BGGPT, other models, different modes, tasks, quantizations, tips ... 
 * Toshko 3 - announcement/demo/new version of the speech synthesizer, now with Speech Recognition: Part ot Jack of All Trades
 * Smarty 2 - announcement/demo/... a new hugely updated version of the once "most intelligent dictionary" in the world, created for just 3 months back in 2007 (I managed to rebuild it on 15.3.2007 and it grows quickly): Part ot Jack of All Trades
 * ? General workshops/tutorials on NLP, NLG, Web scraping, ...
