@@ -1,4 +1,4 @@
-# Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2023
+# Second Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2024
 ### SIGI - Self-Improving General Intelligence | Самоусъвършенстващи се Мислещи Машини - СММ
 <!-- BOTH
 ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/d8477418-007a-4da5-9d8f-7e67e0f14aaf)
