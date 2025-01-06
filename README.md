@@ -1,4 +1,4 @@
-# SACRED COMPTUER 2025
+# SACRED COMPUTER 2025
 ## Second Rolling Conference of the Society of Multidisciplinary and Interdisciplinary AGI/SIGI Researchers SIGI-2025 a.k.a. ...
 <!-- BOTH
 ![image](https://github.com/Twenkid/SIGI-2024/assets/23367640/d8477418-007a-4da5-9d8f-7e67e0f14aaf)
